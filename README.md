@@ -1,4 +1,4 @@
-# Ayush Kumar Portfolio
+# Portfolio
 
 A modern, responsive developer portfolio built with **Next.js 16**, **React 19**, and **TypeScript**.
 
